@@ -29,13 +29,13 @@ A Windows Forms application written in C# that lets users customize and order pi
 ```bash
 git clone https://github.com/Mazen-Eltelbany/Pizza-Order-App.git
 ```
-2- Extract the project (if downloaded as a ZIP).
+2- Extract the project (if downloaded as a ZIP).  
 3-Navigate to:
 ```bash
 PizzaOrder/bin/Debug/
 ```
 * Inside this folder you will find:
-PizzaOrder.exe
+PizzaOrder.exe  
 4- Double–click PizzaOrder.exe to run the app 🚀
 
 # 👨‍💻 Author
