@@ -34,7 +34,7 @@ git clone https://github.com/Mazen-Eltelbany/Pizza-Order-App.git
 ```bash
 PizzaOrder/bin/Debug/
 ```
-* Inside this folder you will find:
+Inside this folder you will find:
 PizzaOrder.exe  
 4- Double–click PizzaOrder.exe to run the app 🚀
 
