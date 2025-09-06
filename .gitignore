@@ -1,5 +1,4 @@
 # Ignore build results
-bin/
 obj/
 
 # Ignore Visual Studio files
