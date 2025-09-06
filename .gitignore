@@ -13,7 +13,6 @@ obj/
 *.log
 
 # Ignore generated files
-*.exe
 *.dll
 *.pdb
 
