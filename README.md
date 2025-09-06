@@ -4,7 +4,7 @@
 
 A Windows Forms application written in C# that lets users customize and order pizzas. The app provides options for size, crust type, toppings, and where to eat, with an automatically updated order summary and total price.
 
-✨ Features  
+## ✨ Features  
 
 - Choose pizza size (Small, Medium, Large)
 
@@ -18,20 +18,25 @@ A Windows Forms application written in C# that lets users customize and order pi
 
 - Stylish UI with transparent group boxes and themed colors
 
-### 🖥️ Technologies Used
+## 🖥️ Technologies Used
 
 - C#
 - Windows Forms (.NET Framework)
 - Visual Studio
 
-### 🚀 Getting Started  
-Clone the repository  
+ ## ▶️ How to Run
+1- Download / Clone the repo
 ```bash
 git clone https://github.com/Mazen-Eltelbany/Pizza-Order-App.git
-cd Pizza-Order-App
 ```
-- Open in Visual Studio
+2- Extract the project (if downloaded as a ZIP).
+3-Navigate to:
+```bash
+PizzaOrder/bin/Debug/
+```
+* Inside this folder you will find:
+PizzaOrder.exe
+4- Double–click PizzaOrder.exe to run the app 🚀
 
-- Open PizzaOrder.sln
-
-- Build and run the project
+# 👨‍💻 Author
+- Mazen Eltelbany
